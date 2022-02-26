@@ -2,7 +2,7 @@ package selenium;
 
 import org.testng.annotations.Test;
 
-public class Abc {
+public class Abc2 {
 	
 	
 	@Test
